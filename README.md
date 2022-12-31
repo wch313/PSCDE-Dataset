@@ -1,3 +1,5 @@
+# RERN: Rich Edge Features Refinement Detection Network for Polycrystalline Solar Cell Defect Segmentation
+
 # PSCDE-Dataset
 
 # News
