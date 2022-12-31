@@ -1,6 +1,7 @@
 # PSCDE-Dataset
 
 # News
+[2022-12-31]: Now our paper is under review, and we will release the full dataset once the review is complete. We first release 150 sample images.
 
 ## Dataset Instructions:
 Dataset is crucial for deep learning, and a high-quality dataset can improve the quality of model training and prediction accuracy. However, the existing polycrystalline solar cell defect segmentation dataset has two shortcomings. Firstly, the existing public dataset has low image quality, and the images have many fine particles or snowflakes. Secondly, the researchers inaccurately mark defects, which produce too many positive samples and expand the scope of defects. This low-quality dataset significantly limits the learning ability of deep networks. Therefore, we aim to construct a high-quality segmentation dataset to promote the high-quality manufacturing of polycrystalline solar cells.
