@@ -5,6 +5,15 @@
 # News
 [2022-12-31]: Now our paper is under review, and we will release the full dataset once the review is complete. We first release the full validation set.
 
+Google drive：
+https://drive.google.com/file/d/1yZ9JHb5IDE4c6HZ3z_6qYVqzng03Tqag/view?usp=share_link
+
+Baidu drive：
+Link：https://pan.baidu.com/s/1XPD-2SiMYUt1wHU2wXxc-g?pwd=bdyl 
+Extraction code：bdyl 
+
+
+
 **Please note that we own the copyrights to part of original solar cell images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.**
 
 ## Dataset Instructions:
