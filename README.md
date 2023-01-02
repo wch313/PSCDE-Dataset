@@ -3,7 +3,7 @@
 # PSCDE-Dataset
 
 # News
-[2022-12-31]: Now our paper is under review, and we will release the full dataset once the review is complete. We first release 150 sample images.
+[2022-12-31]: Now our paper is under review, and we will release the full dataset once the review is complete. We first release the full validation set.
 
 **Please note that we own the copyrights to part of original solar cell images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.**
 
