@@ -3,14 +3,9 @@
 # PSCDE-Dataset
 
 # News
-[2022-12-31]: Now our paper is under review, and we will release the full dataset once the review is complete. We first release the full validation set.
+[2022-12-31]: 
 
-Google drive：
-https://drive.google.com/file/d/1yZ9JHb5IDE4c6HZ3z_6qYVqzng03Tqag/view?usp=share_link
 
-Baidu drive：
-Link：https://pan.baidu.com/s/1XPD-2SiMYUt1wHU2wXxc-g?pwd=bdyl 
-Extraction code：bdyl 
 
 
 
