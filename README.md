@@ -17,7 +17,7 @@ The **PSCDE-Dataset Request Form** is available here.
 All researchers need to follow the instructions below to access the datasets.
 * Download and fill the Industrial Datasets Request Form (MUST be hand signed with date). Please use institutional email address(es). Commercial emails such as Gmail and QQmail are NOT allowed.
 * Email the signed Industrial Datasets Request Form to 202112801005@stu.hebut.edu.cn
-* Note that If you want to download through google disk, please send me your google email.
+
 
 
 ![image](https://github.com/wch313/PSCDE-Dataset/blob/main/PSCDE.jpg)
