@@ -14,9 +14,9 @@ Dataset is crucial for deep learning, and a high-quality dataset can improve the
 
 [The **PSCDE-Dataset Request Form** is available here](https://github.com/wch313/PSCDE-Dataset/blob/main/PSCDE-Dataset%20Request%20Form.docx)
 
-All researchers need to follow the instructions below to access the datasets.
+All researchers need to follow the instructions below to access the dataset.
 * Download and fill the PSCDE-Dataset Request Form (MUST be hand signed with date). Please use institutional email address(es). Commercial emails such as Gmail and QQmail are NOT allowed.
-* Email the signed Industrial Datasets Request Form to 202112801005@stu.hebut.edu.cn
+* Email the signed PSCDE-Dataset Request Form to 202112801005@stu.hebut.edu.cn
 
 
 
