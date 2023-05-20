@@ -4,7 +4,7 @@
 
 If you are using the code/model/data provided here in a publication, please consider citing:
 
-   ```bash
+   ```
    @ARTICLE{10125018,
    author={Wang, Chuhan and Chen, Haiyong and Zhao, Shenshen},
    journal={IEEE Transactions on Industrial Informatics}, 
