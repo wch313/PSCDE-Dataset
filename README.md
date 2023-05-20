@@ -21,7 +21,7 @@ If you are using the code/model/data provided here in a publication, please cons
 
 # PSCDE-Dataset
 ## Download
-You can download the four datasets from the following link:
+You can download the dataset from the following link:
 
 Google drive：
 
