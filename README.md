@@ -25,13 +25,13 @@ You can download the dataset from the following link:
 
 Google drive：
 
-https://drive.google.com/file/d/191-lPslUTW4lJeBSF2pAWbYlH8LwhbQ5/view?usp=sharing
+https://drive.google.com/drive/folders/10rFp-gw_dk__c1oPw-wcb4MOYCLvTNL8?usp=drive_link
 
 Baidu drive：
 
-https://pan.baidu.com/s/1d3lZzjkMJOJqx59zaXHuIQ?pwd=jyuq
+https://pan.baidu.com/s/1sxf-WwjJzDTC_CAuNMHG-A?pwd=3ess 
 
-Extraction code：jyuq
+Extraction code：3ess
 
 
 **Please note that we own the copyrights to part of original solar cell images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.**
@@ -51,6 +51,16 @@ Dataset is crucial for deep learning, and a high-quality dataset can improve the
 ![image](https://github.com/wch313/PSCDE-Dataset/blob/main/PSCDE.jpg)
 
 ![image](https://github.com/wch313/PSCDE-Dataset/blob/main/Figure1.jpg)
+
+# News!
+## We updated the binary mask label for the PSCDE dataset.
+
+![image](https://github.com/wch313/PSCDE-Dataset/blob/main/Figure2.png)
+
+
+
+
+
 
 
 **If you have any questions, please contact me without hesitation.**
