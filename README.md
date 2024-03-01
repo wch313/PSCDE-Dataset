@@ -6,16 +6,26 @@ If you are using the code/model/data provided here in a publication, please cons
 
    ```
    @ARTICLE{10125018,
-   author={Wang, Chuhan and Chen, Haiyong and Zhao, Shenshen},
-   journal={IEEE Transactions on Industrial Informatics}, 
-   title={RERN: Rich Edge Features Refinement Detection Network for Polycrystalline Solar Cell Defect Segmentation}, 
-   year={2023},
-   volume={},
-   number={},
-   pages={1-12},
-   doi={10.1109/TII.2023.3275705}
- } 
+  author={Wang, Chuhan and Chen, Haiyong and Zhao, Shenshen},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={RERN: Rich Edge Features Refinement Detection Network for Polycrystalline Solar Cell Defect Segmentation}, 
+  year={2024},
+  volume={20},
+  number={2},
+  pages={1408-1419},
+  keywords={Image edge detection;Photovoltaic cells;Feature extraction;Semantic segmentation;Manufacturing;Informatics;Strips;Attention;defect segmentation;edge detection;solar cell defect edge dataset},
+  doi={10.1109/TII.2023.3275705}}
 
+@ARTICLE{10439979,
+  author={Wang, Chuhan and Chen, Haiyong and Zhao, Shenshen and Wang, Yining and Cao, Zhen},
+  journal={IEEE Internet of Things Journal}, 
+  title={A Low-Cost Defect Segmentation System Based On IoT for Large-Scale Photovoltaic Manufacturing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Production;Solar power generation;Photovoltaic systems;Image edge detection;Computational modeling;Edge computing;Photovoltaic cells;IoT;AI;Large-Scale Photovoltaic Manufacturing;Efficient Defect Segmentation Model},
+  doi={10.1109/JIOT.2024.3366945}}
 ```
 
 
