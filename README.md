@@ -63,7 +63,7 @@ Dataset is crucial for deep learning, and a high-quality dataset can improve the
   We construct a polycrystalline solar cell defect edge (PSCDE) dataset, which is the first high-quality solar cell segmentation dataset. We adopt the electroluminescence imaging technique collecting 700 challenging defect images with 512×512 resolution, such as multi-scale defects, occlusion defects, dense tiny defects, low contrast defects, and combination defects. Furthermore, it is a comprehensive dataset containing the main defect categories, including linear cracks, star cracks, scratches, finger interruptions, black cores, fragments, and corners. Moreover, we meticulously annotate all defective edges with the help of multiple experts. The ground truth of PSCDE includes two categories: edge and non-edge. We randomly divide PSCDE into 280 images for the training set, 140 images for the validation set, and 280 images for the testing set and guarantee that each set contains all kinds of defects.
 
 
-![image](https://github.com/wch313/PSCDE-Dataset/blob/main/PSCDE.jpg)
+![image](https://github.com/wch313/PSCDE-Dataset/blob/main/PSCDE.png)
 
 ![image](https://github.com/wch313/PSCDE-Dataset/blob/main/Figure1.jpg)
 
