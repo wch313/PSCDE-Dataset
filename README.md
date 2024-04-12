@@ -28,6 +28,17 @@ If you are using the code/model/data provided here in a publication, please cons
   doi={10.1109/JIOT.2024.3366945}}
 ```
 
+# Update
+We have updated the binary mask defect data set based on the defect edge data set. We will upload the evaluated miou indicators later.
+## PSCDE_Mask-Dataset
+You can download the dataset from the following link:
+
+Google drive：https://drive.google.com/file/d/1DZ9h-nOT0IwaR4TAvogvXvWbHGPoIVSA/view?usp=sharing
+
+Baidu drive：https://pan.baidu.com/s/1u-_m7IoR-s2vQ6SXTnVTdQ?pwd=dhy3 
+
+Extraction code： dhy3
+
 
 # PSCDE-Dataset
 ## Download
@@ -50,12 +61,6 @@ Extraction code：znyb
 Dataset is crucial for deep learning, and a high-quality dataset can improve the quality of model training and prediction accuracy. Therefore, we aim to construct a high-quality segmentation dataset to promote the high-quality manufacturing of polycrystalline solar cells.
 
   We construct a polycrystalline solar cell defect edge (PSCDE) dataset, which is the first high-quality solar cell segmentation dataset. We adopt the electroluminescence imaging technique collecting 700 challenging defect images with 512×512 resolution, such as multi-scale defects, occlusion defects, dense tiny defects, low contrast defects, and combination defects. Furthermore, it is a comprehensive dataset containing the main defect categories, including linear cracks, star cracks, scratches, finger interruptions, black cores, fragments, and corners. Moreover, we meticulously annotate all defective edges with the help of multiple experts. The ground truth of PSCDE includes two categories: edge and non-edge. We randomly divide PSCDE into 280 images for the training set, 140 images for the validation set, and 280 images for the testing set and guarantee that each set contains all kinds of defects.
-
-
-
-
-
-
 
 
 ![image](https://github.com/wch313/PSCDE-Dataset/blob/main/PSCDE.jpg)
