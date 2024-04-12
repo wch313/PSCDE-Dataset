@@ -28,7 +28,7 @@ If you are using the code/model/data provided here in a publication, please cons
   doi={10.1109/JIOT.2024.3366945}}
 ```
 
-# Update
+# Update___2024/4/12
 We have updated the binary mask defect data set based on the defect edge data set. We will upload the evaluated miou indicators later.
 ## PSCDE_Mask-Dataset
 You can download the dataset from the following link:
