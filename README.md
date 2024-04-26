@@ -19,13 +19,14 @@ If you are using the code/model/data provided here in a publication, please cons
 @ARTICLE{10439979,
   author={Wang, Chuhan and Chen, Haiyong and Zhao, Shenshen and Wang, Yining and Cao, Zhen},
   journal={IEEE Internet of Things Journal}, 
-  title={A Low-Cost Defect Segmentation System Based On IoT for Large-Scale Photovoltaic Manufacturing}, 
+  title={A Low-Cost Defect Segmentation System Based on IoT for Large-Scale Photovoltaic Manufacturing}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Production;Solar power generation;Photovoltaic systems;Image edge detection;Computational modeling;Edge computing;Photovoltaic cells;IoT;AI;Large-Scale Photovoltaic Manufacturing;Efficient Defect Segmentation Model},
+  volume={11},
+  number={9},
+  pages={16928-16940},
+  keywords={Production;Solar power generation;Photovoltaic systems;Image edge detection;Computational modeling;Edge computing;Photovoltaic cells;Artificial intelligence (AI);efficient defect segmentation model;Internet of Things (IoT);large-Scale photovoltaic manufacturing},
   doi={10.1109/JIOT.2024.3366945}}
+
 ```
 
 # Update___NEW!
